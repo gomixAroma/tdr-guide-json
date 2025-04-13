@@ -1680,6 +1680,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（15:21更新）",
+                    "wait_time": "5",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 20:45",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -3346,6 +3366,26 @@
                 },
                 {
                     "time": "15:40",
+                    "update_time": "（15:37更新）",
+                    "wait_time": "90",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "ディズニー・プレミアアクセス販売中",
+                    "DPA": {
+                        "use": true,
+                        "stock": true
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "15:45",
                     "update_time": "（15:37更新）",
                     "wait_time": "90",
                     "operation": "運営中",
@@ -5046,6 +5086,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（9:00更新）",
+                    "wait_time": "",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -6729,6 +6789,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（15:08更新）",
+                    "wait_time": "5",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -8395,6 +8475,26 @@
                 },
                 {
                     "time": "15:40",
+                    "update_time": "（9:00更新）",
+                    "wait_time": "5",
+                    "operation": "運営中",
+                    "operation_time": "12:00 – 18:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "15:45",
                     "update_time": "（9:00更新）",
                     "wait_time": "5",
                     "operation": "運営中",
@@ -10180,6 +10280,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（15:06更新）",
+                    "wait_time": "50",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "ディズニー・プレミアアクセス販売中",
+                    "DPA": {
+                        "use": true,
+                        "stock": true
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -11846,6 +11966,26 @@
                 },
                 {
                     "time": "15:40",
+                    "update_time": "（14:58更新）",
+                    "wait_time": "15",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "15:45",
                     "update_time": "（14:58更新）",
                     "wait_time": "15",
                     "operation": "運営中",
@@ -13546,13 +13686,33 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（15:21更新）",
+                    "wait_time": "5",
+                    "operation": "運営中",
+                    "operation_time": "11:00 – 17:25",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
         "トイ・ストーリー・マニア！": {
             "Realtime": {
-                "update_time": "（15:16更新）",
-                "wait_time": "50",
+                "update_time": "（15:41更新）",
+                "wait_time": "60",
                 "operation": "運営中",
                 "operation_time": "9:00 – 21:00",
                 "operation_warning": "ディズニー・プレミアアクセス販売中",
@@ -15214,6 +15374,26 @@
                     "time": "15:40",
                     "update_time": "（15:16更新）",
                     "wait_time": "50",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "ディズニー・プレミアアクセス販売中",
+                    "DPA": {
+                        "use": true,
+                        "stock": true
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（15:41更新）",
+                    "wait_time": "60",
                     "operation": "運営中",
                     "operation_time": "9:00 – 21:00",
                     "operation_warning": "ディズニー・プレミアアクセス販売中",
@@ -16895,6 +17075,26 @@
                 },
                 {
                     "time": "15:40",
+                    "update_time": "（12:26更新）",
+                    "wait_time": "5",
+                    "operation": "運営中",
+                    "operation_time": "11:00 – 17:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "15:45",
                     "update_time": "（12:26更新）",
                     "wait_time": "5",
                     "operation": "運営中",
@@ -18597,6 +18797,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（9:00更新）",
+                    "wait_time": "5",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -20280,13 +20500,33 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（15:34更新）",
+                    "wait_time": "15",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
         "ニモ＆フレンズ・シーライダー": {
             "Realtime": {
-                "update_time": "（13:48更新）",
-                "wait_time": "30",
+                "update_time": "（15:39更新）",
+                "wait_time": "20",
                 "operation": "運営中",
                 "operation_time": "9:00 – 21:00",
                 "operation_warning": "40周年記念プライオリティパス発行なし",
@@ -21963,6 +22203,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（15:39更新）",
+                    "wait_time": "20",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "40周年記念プライオリティパス発行なし",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         }
@@ -21970,8 +22230,8 @@
     "ロストリバーデルタ": {
         "インディ・ジョーンズ®・アドベンチャー： クリスタルスカルの魔宮": {
             "Realtime": {
-                "update_time": "（15:18更新）",
-                "wait_time": "30",
+                "update_time": "（15:42更新）",
+                "wait_time": "40",
                 "operation": "運営中",
                 "operation_time": "9:00 – 21:00",
                 "operation_warning": "40周年記念プライオリティパス発行なし",
@@ -23633,6 +23893,26 @@
                     "time": "15:40",
                     "update_time": "（15:18更新）",
                     "wait_time": "30",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "40周年記念プライオリティパス発行なし",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（15:42更新）",
+                    "wait_time": "40",
                     "operation": "運営中",
                     "operation_time": "9:00 – 21:00",
                     "operation_warning": "40周年記念プライオリティパス発行なし",
@@ -25331,6 +25611,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（15:21更新）",
+                    "wait_time": "5",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -26997,6 +27297,26 @@
                 },
                 {
                     "time": "15:40",
+                    "update_time": "（15:36更新）",
+                    "wait_time": "20",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "40周年記念プライオリティパス発行なし",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "15:45",
                     "update_time": "（15:36更新）",
                     "wait_time": "20",
                     "operation": "運営中",
@@ -28699,13 +29019,33 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（15:25更新）",
+                    "wait_time": "120",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "ディズニー・プレミアアクセス販売なし",
+                    "DPA": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
         "ラプンツェルのランタンフェスティバル": {
             "Realtime": {
-                "update_time": "（15:34更新）",
-                "wait_time": "60",
+                "update_time": "（15:42更新）",
+                "wait_time": "70",
                 "operation": "運営中",
                 "operation_time": "9:00 – 21:00",
                 "operation_warning": "ディズニー・プレミアアクセス販売中",
@@ -30367,6 +30707,26 @@
                     "time": "15:40",
                     "update_time": "（15:34更新）",
                     "wait_time": "60",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "ディズニー・プレミアアクセス販売中",
+                    "DPA": {
+                        "use": true,
+                        "stock": true
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（15:42更新）",
+                    "wait_time": "70",
                     "operation": "運営中",
                     "operation_time": "9:00 – 21:00",
                     "operation_warning": "ディズニー・プレミアアクセス販売中",
@@ -32065,6 +32425,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（15:37更新）",
+                    "wait_time": "90",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "ディズニー・プレミアアクセス販売中",
+                    "DPA": {
+                        "use": true,
+                        "stock": true
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -33731,6 +34111,26 @@
                 },
                 {
                     "time": "15:40",
+                    "update_time": "（15:02更新）",
+                    "wait_time": "30",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "15:45",
                     "update_time": "（15:02更新）",
                     "wait_time": "30",
                     "operation": "運営中",
@@ -35433,6 +35833,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（14:07更新）",
+                    "wait_time": "5",
+                    "operation": "運営中",
+                    "operation_time": "10:00 – 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -37099,6 +37519,26 @@
                 },
                 {
                     "time": "15:40",
+                    "update_time": "（14:48更新）",
+                    "wait_time": "5",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "15:45",
                     "update_time": "（14:48更新）",
                     "wait_time": "5",
                     "operation": "運営中",
@@ -38799,6 +39239,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（14:07更新）",
+                    "wait_time": "5",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -40465,6 +40925,26 @@
                 },
                 {
                     "time": "15:40",
+                    "update_time": "（14:07更新）",
+                    "wait_time": "15",
+                    "operation": "運営中",
+                    "operation_time": "10:00 – 20:35",
+                    "operation_warning": "40周年記念プライオリティパス発行なし",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "15:45",
                     "update_time": "（14:07更新）",
                     "wait_time": "15",
                     "operation": "運営中",
@@ -42167,12 +42647,32 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（9:00更新）",
+                    "wait_time": "",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
         "ジャンピン・ジェリーフィッシュ": {
             "Realtime": {
-                "update_time": "（14:48更新）",
+                "update_time": "（15:43更新）",
                 "wait_time": "5",
                 "operation": "運営中",
                 "operation_time": "9:00 – 21:00",
@@ -43834,6 +44334,26 @@
                 {
                     "time": "15:40",
                     "update_time": "（14:48更新）",
+                    "wait_time": "5",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（15:43更新）",
                     "wait_time": "5",
                     "operation": "運営中",
                     "operation_time": "9:00 – 21:00",
@@ -45516,6 +46036,26 @@
                 },
                 {
                     "time": "15:40",
+                    "update_time": "（13:45更新）",
+                    "wait_time": "5",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "15:45",
                     "update_time": "（13:45更新）",
                     "wait_time": "5",
                     "operation": "運営中",
@@ -47216,6 +47756,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（15:05更新）",
+                    "wait_time": "5",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -48882,6 +49442,26 @@
                 },
                 {
                     "time": "15:40",
+                    "update_time": "（15:21更新）",
+                    "wait_time": "15",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "15:45",
                     "update_time": "（15:21更新）",
                     "wait_time": "15",
                     "operation": "運営中",
@@ -50665,6 +51245,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（15:35更新）",
+                    "wait_time": "15",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         }
@@ -52350,6 +52950,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "15:45",
+                    "update_time": "（15:09更新）",
+                    "wait_time": "5",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "40周年記念プライオリティパス発行中",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": true
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -54016,6 +54636,26 @@
                 },
                 {
                     "time": "15:40",
+                    "update_time": "（15:31更新）",
+                    "wait_time": "50",
+                    "operation": "運営中",
+                    "operation_time": "9:00 – 21:00",
+                    "operation_warning": "ディズニー・プレミアアクセス販売中",
+                    "DPA": {
+                        "use": true,
+                        "stock": true
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "15:45",
                     "update_time": "（15:31更新）",
                     "wait_time": "50",
                     "operation": "運営中",
