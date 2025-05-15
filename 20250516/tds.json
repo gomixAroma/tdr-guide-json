@@ -40,6 +40,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -66,6 +86,26 @@
             "History": [
                 {
                     "time": "00:00",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
                     "update_time": "",
                     "wait_time": "",
                     "operation": "",
@@ -126,6 +166,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -169,6 +229,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -195,6 +275,26 @@
             "History": [
                 {
                     "time": "00:00",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
                     "update_time": "",
                     "wait_time": "",
                     "operation": "",
@@ -257,6 +357,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -283,6 +403,26 @@
             "History": [
                 {
                     "time": "00:00",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
                     "update_time": "",
                     "wait_time": "",
                     "operation": "",
@@ -343,6 +483,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -369,6 +529,26 @@
             "History": [
                 {
                     "time": "00:00",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
                     "update_time": "",
                     "wait_time": "",
                     "operation": "",
@@ -429,6 +609,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -455,6 +655,26 @@
             "History": [
                 {
                     "time": "00:00",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
                     "update_time": "",
                     "wait_time": "",
                     "operation": "",
@@ -517,6 +737,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -560,6 +800,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -586,6 +846,26 @@
             "History": [
                 {
                     "time": "00:00",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
                     "update_time": "",
                     "wait_time": "",
                     "operation": "",
@@ -648,6 +928,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -691,6 +991,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -717,6 +1037,26 @@
             "History": [
                 {
                     "time": "00:00",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
                     "update_time": "",
                     "wait_time": "",
                     "operation": "",
@@ -779,6 +1119,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -805,6 +1165,26 @@
             "History": [
                 {
                     "time": "00:00",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
                     "update_time": "",
                     "wait_time": "",
                     "operation": "",
@@ -865,6 +1245,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -891,6 +1291,26 @@
             "History": [
                 {
                     "time": "00:00",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
                     "update_time": "",
                     "wait_time": "",
                     "operation": "",
@@ -953,6 +1373,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -979,6 +1419,26 @@
             "History": [
                 {
                     "time": "00:00",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
                     "update_time": "",
                     "wait_time": "",
                     "operation": "",
@@ -1039,6 +1499,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -1065,6 +1545,26 @@
             "History": [
                 {
                     "time": "00:00",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
                     "update_time": "",
                     "wait_time": "",
                     "operation": "",
@@ -1127,6 +1627,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -1153,6 +1673,26 @@
             "History": [
                 {
                     "time": "00:00",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
                     "update_time": "",
                     "wait_time": "",
                     "operation": "",
@@ -1213,6 +1753,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -1239,6 +1799,26 @@
             "History": [
                 {
                     "time": "00:00",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
                     "update_time": "",
                     "wait_time": "",
                     "operation": "",
@@ -1299,6 +1879,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -1342,6 +1942,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -1368,6 +1988,26 @@
             "History": [
                 {
                     "time": "00:00",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
                     "update_time": "",
                     "wait_time": "",
                     "operation": "",
@@ -1430,6 +2070,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -1456,6 +2116,26 @@
             "History": [
                 {
                     "time": "00:00",
+                    "update_time": "",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
                     "update_time": "",
                     "wait_time": "",
                     "operation": "",
