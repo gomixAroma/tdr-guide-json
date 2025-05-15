@@ -920,6 +920,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "10:00 - 14:25",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -1826,6 +1846,26 @@
                 },
                 {
                     "time": "03:40",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "03:45",
                     "update_time": "運営/公演予定",
                     "wait_time": "",
                     "operation": "",
@@ -2768,6 +2808,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:30 - 19:30",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -3674,6 +3734,26 @@
                 },
                 {
                     "time": "03:40",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "ー",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "03:45",
                     "update_time": "運営/公演予定",
                     "wait_time": "",
                     "operation": "",
@@ -4614,6 +4694,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -5537,6 +5637,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "ー",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -6443,6 +6563,26 @@
                 },
                 {
                     "time": "03:40",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "10:00 - 20:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "03:45",
                     "update_time": "運営/公演予定",
                     "wait_time": "",
                     "operation": "",
@@ -7385,6 +7525,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -8291,6 +8451,26 @@
                 },
                 {
                     "time": "03:40",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "10:00 - 20:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "03:45",
                     "update_time": "運営/公演予定",
                     "wait_time": "",
                     "operation": "",
@@ -9231,6 +9411,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "ー",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -10154,6 +10354,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "11:00 - 16:45",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -11060,6 +11280,26 @@
                 },
                 {
                     "time": "03:40",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "03:45",
                     "update_time": "運営/公演予定",
                     "wait_time": "",
                     "operation": "",
@@ -12002,6 +12242,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -12908,6 +13168,26 @@
                 },
                 {
                     "time": "03:40",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "11:00 - 17:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "03:45",
                     "update_time": "運営/公演予定",
                     "wait_time": "",
                     "operation": "",
@@ -13850,6 +14130,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -14756,6 +15056,26 @@
                 },
                 {
                     "time": "03:40",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "03:45",
                     "update_time": "運営/公演予定",
                     "wait_time": "",
                     "operation": "",
@@ -15696,6 +16016,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -16602,6 +16942,26 @@
                 },
                 {
                     "time": "03:40",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "03:45",
                     "update_time": "運営/公演予定",
                     "wait_time": "",
                     "operation": "",
@@ -17542,6 +17902,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "10:00 - 18:30",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -18448,6 +18828,26 @@
                 },
                 {
                     "time": "03:40",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "03:45",
                     "update_time": "運営/公演予定",
                     "wait_time": "",
                     "operation": "",
@@ -19388,6 +19788,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -20294,6 +20714,26 @@
                 },
                 {
                     "time": "03:40",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "ー",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "03:45",
                     "update_time": "運営/公演予定",
                     "wait_time": "",
                     "operation": "",
@@ -21234,6 +21674,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -22140,6 +22600,26 @@
                 },
                 {
                     "time": "03:40",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "03:45",
                     "update_time": "運営/公演予定",
                     "wait_time": "",
                     "operation": "",
@@ -23080,6 +23560,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -23986,6 +24486,26 @@
                 },
                 {
                     "time": "03:40",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "03:45",
                     "update_time": "運営/公演予定",
                     "wait_time": "",
                     "operation": "",
@@ -24928,6 +25448,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -25834,6 +26374,26 @@
                 },
                 {
                     "time": "03:40",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "10:00 - 20:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "03:45",
                     "update_time": "運営/公演予定",
                     "wait_time": "",
                     "operation": "",
@@ -26774,6 +27334,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -27680,6 +28260,26 @@
                 },
                 {
                     "time": "03:40",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "03:45",
                     "update_time": "運営/公演予定",
                     "wait_time": "",
                     "operation": "",
@@ -28620,6 +29220,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -29543,6 +30163,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -30449,6 +31089,26 @@
                 },
                 {
                     "time": "03:40",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "03:45",
                     "update_time": "運営/公演予定",
                     "wait_time": "",
                     "operation": "",
@@ -31391,6 +32051,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -32297,6 +32977,26 @@
                 },
                 {
                     "time": "03:40",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "10:00 - 19:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "03:45",
                     "update_time": "運営/公演予定",
                     "wait_time": "",
                     "operation": "",
@@ -33237,6 +33937,26 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "03:45",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "ー",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
@@ -34143,6 +34863,26 @@
                 },
                 {
                     "time": "03:40",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "03:45",
                     "update_time": "運営/公演予定",
                     "wait_time": "",
                     "operation": "",
