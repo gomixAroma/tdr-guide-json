@@ -2,10 +2,10 @@
     "ワールドバザール": {
         "オムニバス": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "10:00 - 14:25",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -40,15 +40,35 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "10:00 - 14:25",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
         "ペニーアーケード": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -70,6 +90,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -90,10 +130,10 @@
     "アドベンチャーランド": {
         "ウエスタンリバー鉄道": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:30 - 19:30",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -115,6 +155,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:30 - 19:30",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -133,10 +193,10 @@
         },
         "カリブの海賊": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "ー",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -158,6 +218,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "ー",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -176,10 +256,10 @@
         },
         "ジャングルクルーズ：ワイルドライフ・エクスペディション": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -201,6 +281,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -219,10 +319,10 @@
         },
         "スイスファミリー・ツリーハウス": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "ー",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -257,15 +357,35 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "ー",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
         "魅惑のチキルーム：スティッチ・プレゼンツ“アロハ・エ・コモ・マイ！”": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "10:00 - 20:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -287,6 +407,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "10:00 - 20:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -307,10 +447,10 @@
     "ウエスタンランド": {
         "ウエスタンランド・シューティングギャラリー": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -332,6 +472,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -350,10 +510,10 @@
         },
         "カントリーベア・シアター": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "10:00 - 20:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -375,6 +535,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "10:00 - 20:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -393,10 +573,10 @@
         },
         "蒸気船マークトウェイン号": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "ー",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -418,6 +598,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "ー",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -436,10 +636,10 @@
         },
         "トムソーヤ島いかだ": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "11:00 - 16:45",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -474,15 +674,35 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "11:00 - 16:45",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
         "ビッグサンダー・マウンテン": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -504,6 +724,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -524,10 +764,10 @@
     "クリッターカントリー": {
         "スプラッシュ・マウンテン": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": true,
@@ -562,15 +802,35 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
         "ビーバーブラザーズのカヌー探険": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "11:00 - 17:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -592,6 +852,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "11:00 - 17:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -612,10 +892,10 @@
     "ファンタジーランド": {
         "アリスのティーパーティー": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -637,6 +917,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -655,10 +955,10 @@
         },
         "イッツ・ア・スモールワールド": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -680,6 +980,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -698,10 +1018,10 @@
         },
         "キャッスルカルーセル": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -723,6 +1043,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -741,10 +1081,10 @@
         },
         "白雪姫と七人のこびと": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -766,6 +1106,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -784,10 +1144,10 @@
         },
         "シンデレラのフェアリーテイル・ホール": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "10:00 - 18:30",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -809,6 +1169,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "10:00 - 18:30",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -827,10 +1207,10 @@
         },
         "空飛ぶダンボ": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -852,6 +1232,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -870,10 +1270,10 @@
         },
         "美女と野獣“魔法のものがたり”": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": true,
@@ -895,6 +1295,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": true,
@@ -913,10 +1333,10 @@
         },
         "ピーターパン空の旅": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "ー",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -938,6 +1358,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "ー",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -956,10 +1396,10 @@
         },
         "ピノキオの冒険旅行": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -981,6 +1421,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -999,10 +1459,10 @@
         },
         "プーさんのハニーハント": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -1024,6 +1484,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -1042,10 +1522,10 @@
         },
         "ホーンテッドマンション": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -1080,15 +1560,35 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
         "ミッキーのフィルハーマジック": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -1110,6 +1610,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -1130,10 +1650,10 @@
     "トゥーンタウン": {
         "ガジェットのゴーコースター": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -1155,6 +1675,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -1173,10 +1713,10 @@
         },
         "グーフィーのペイント＆プレイハウス": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "10:00 - 20:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -1198,6 +1738,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "10:00 - 20:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -1216,10 +1776,10 @@
         },
         "チップとデールのツリーハウス": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -1241,6 +1801,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -1259,10 +1839,10 @@
         },
         "トゥーンパーク": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -1284,6 +1864,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -1302,10 +1902,10 @@
         },
         "ドナルドのボート": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -1327,6 +1927,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -1345,10 +1965,10 @@
         },
         "ミニーの家": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -1383,15 +2003,35 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
         "ロジャーラビットのカートゥーンスピン": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -1413,6 +2053,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -1433,10 +2093,10 @@
     "トゥモローランド": {
         "スター・ツアーズ：ザ・アドベンチャーズ・コンティニュー": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -1458,6 +2118,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
@@ -1476,10 +2156,10 @@
         },
         "スティッチ・エンカウンター": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "10:00 - 19:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -1514,15 +2194,35 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "10:00 - 19:00",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
         "ベイマックスのハッピーライド": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "ー",
                 "operation_warning": "",
                 "DPA": {
                     "use": true,
@@ -1557,15 +2257,35 @@
                         "use": false,
                         "stock": null
                     }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "ー",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "PP": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
                 }
             ]
         },
         "モンスターズ・インク“ライド＆ゴーシーク！”": {
             "Realtime": {
-                "update_time": "",
+                "update_time": "運営/公演予定",
                 "wait_time": "",
                 "operation": "",
-                "operation_time": "",
+                "operation_time": "9:00 - 21:00",
                 "operation_warning": "",
                 "DPA": {
                     "use": false,
@@ -1587,6 +2307,26 @@
                     "wait_time": "",
                     "operation": "",
                     "operation_time": "",
+                    "operation_warning": "",
+                    "DPA": {
+                        "use": false,
+                        "stock": null
+                    },
+                    "PP": {
+                        "use": true,
+                        "stock": false
+                    },
+                    "SP": {
+                        "use": false,
+                        "stock": null
+                    }
+                },
+                {
+                    "time": "00:05",
+                    "update_time": "運営/公演予定",
+                    "wait_time": "",
+                    "operation": "",
+                    "operation_time": "9:00 - 21:00",
                     "operation_warning": "",
                     "DPA": {
                         "use": false,
